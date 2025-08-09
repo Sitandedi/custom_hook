@@ -7,7 +7,7 @@
   .usefetch_heading{
     text-align: center;
   }
- .list_data {
+ .list-data {
     margin-bottom: 20px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -18,12 +18,12 @@
     justify-content: center;
   }
   
-  .list_data h3 {
+  .list-data h3 {
     margin-top: 0;
     margin-bottom: 10px;
   }
   
-  .list_data p {
+  .list-data p {
     margin: 5px 0;
   }
   
